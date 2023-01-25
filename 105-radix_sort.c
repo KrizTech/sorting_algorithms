@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "sort.h"
+
 #define BASE 10
 
 void radix_sort(int* array, size_t size) {
