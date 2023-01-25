@@ -11,6 +11,7 @@ void radix_sort(int *array, size_t size);
  *
  * Return: The maximum integer in the array.
  */
+
 int get_max(int *array, int size)
 {
 	int max, i;
